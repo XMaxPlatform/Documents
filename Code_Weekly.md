@@ -1,6 +1,19 @@
 # Xmax Code Weekly
 
 
+2018/6/25
+-----------------------
+*  Switch V8 VM to 6.4.1
+*  Add interface to insert intrinsic function,call intrinsic function in every block.
+*  Collate the building environment configuration of MongoDB.
+*  Add test project of MongoDB ，wrtie testcase.
+*  Improve ProtoBuf testcase.
+*  Implement any value basetype to save any value.
+*  Write any value testcase.
+*  Blockbuilder plugin base logic.
+*  File API encryption.
+
+
 2018/6/19
 -----------------------
 *  Smart contract document for sidechain.
