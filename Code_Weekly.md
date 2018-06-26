@@ -1,4 +1,4 @@
-# Xmax Code Weekly
+# XMAX Code Weekly
 
 
 2018/6/25
