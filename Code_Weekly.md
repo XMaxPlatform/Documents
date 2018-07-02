@@ -1,5 +1,17 @@
 # XMAX Code Weekly
 
+2018/7/2
+-----------------------
+*  Mainchain Application excuting flow changes.
+*  Improve Mainchain base library:exception,any value,any object,short name.
+*  Mainchain network testcase.
+*  Save and load logic of sidechain.
+*  BFT logic of sidechain.
+*  Create sidechain test framework.
+*  Add broadcast and synchronization in sidechain nodes.
+*  Extend ERC20 Token structure in sidechain. 
+*  Change function callback insert from ast parsing stage to bytecode generate stage.
+*  Insert a callback function after each instruction.
 
 2018/6/25
 -----------------------
