@@ -7,6 +7,7 @@
 *  Mainchain network testcase.
 *  Save and load logic of sidechain.
 *  BFT logic of sidechain.
+*  Mainchain network testcase.
 *  Create sidechain test framework.
 *  Add broadcast and synchronization in sidechain nodes.
 *  Extend ERC20 Token structure in sidechain. 
