@@ -1,5 +1,34 @@
 # XMAX Code Weekly
 
+
+2018/7/16
+-----------------------
+*  Mainchain: P2P net framework.
+*  Mainchain: database module.
+*  Mainchain: implement dynamic loading plugins.
+*  Mainchain: plugin dependency analyzer.
+*  Sidechain:ERC721 data unit testcase.
+*  Sidechain:Issue ERC721 interface.
+*  Sidechain: ERC20 & ERC721 Mint interface.
+*  Sidechain: Extend ERC20 data.
+*  Sidechain: Transaction processing flow.
+*  Sidechain: automatic validation logic of an irreversible block.
+
+
+2018/7/9
+-----------------------
+*  Mainchain string formatter and logger.
+*  First DB structure in mainchain.
+*  Configuration resolver in mainchain.
+*  Program option manager in mainchain.
+*  Message processing when generating blocks in sidechain.
+*  Modify windows building evironment of sidechain.
+*  ERC20 structure unit testcase of sidechain.
+*  Extend ERC721 structure of sidechain.
+*  Store executed vm instructions.
+*  Sidechain p2p network.
+
+
 2018/7/2
 -----------------------
 *  Mainchain Application excuting flow changes.
@@ -13,6 +42,7 @@
 *  Extend ERC20 Token structure in sidechain. 
 *  Change function callback insert from ast parsing stage to bytecode generate stage.
 *  Insert a callback function after each instruction.
+
 
 2018/6/25
 -----------------------
