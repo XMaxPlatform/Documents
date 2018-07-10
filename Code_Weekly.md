@@ -1,5 +1,20 @@
 # XMAX Code Weekly
 
+
+2018/7/9
+-----------------------
+*  Mainchian string formatter and logger.
+*  First DB structure in mainchain.
+*  Configuration resolver in mainchain.
+*  Program option manager in mainchain.
+*  Message processing when generating blocks in sidechain.
+*  Modify windows building evironment of sidechain.
+*  ERC20 structure unit testcase of sidechain.
+*  Extend ERC721 structure of sidechain.
+*  Store executed vm instructions.
+*  Sidechain p2p network.
+
+
 2018/7/2
 -----------------------
 *  Mainchain Application excuting flow changes.
@@ -13,6 +28,7 @@
 *  Extend ERC20 Token structure in sidechain. 
 *  Change function callback insert from ast parsing stage to bytecode generate stage.
 *  Insert a callback function after each instruction.
+
 
 2018/6/25
 -----------------------
