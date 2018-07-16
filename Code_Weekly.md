@@ -1,6 +1,7 @@
 # XMAX Code Weekly
 
 
+<<<<<<< HEAD
 2018/7/16
 -----------------------
 *  Mainchain: P2P net framework.
@@ -18,6 +19,11 @@
 2018/7/9
 -----------------------
 *  Mainchain string formatter and logger.
+=======
+2018/7/9
+-----------------------
+*  Mainchian string formatter and logger.
+>>>>>>> 489772cd2ebe1d84255c1d5e9e9b28a774886879
 *  First DB structure in mainchain.
 *  Configuration resolver in mainchain.
 *  Program option manager in mainchain.
