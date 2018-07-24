@@ -1,6 +1,20 @@
 # XMAX Code Weekly
 
 
+2018/7/23
+-----------------------
+*  Mainchain: define message sending and receiving mechanism.
+*  Mainchain: add the protocol base library project.
+*  Mainchain: configuration description document.
+*  Mainchain: database rollback logic.
+*  Sidechain: The data structure of the authority system.
+*  Sidechain: forking logic.
+*  Sidechain: support more character types and longer names.
+*  Sidechain: type externsion in V8 Virtual Machine
+*  Sidechain: ERC20，ERC721 interface: revoke.
+*  Sidechain: ERC20 interface: totalsupply，balanceOf.
+
+
 2018/7/16
 -----------------------
 *  Mainchain: P2P net framework.
