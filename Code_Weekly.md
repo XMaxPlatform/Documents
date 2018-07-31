@@ -1,6 +1,20 @@
 # XMAX Code Weekly
 
 
+2018/7/30
+-----------------------
+*  Mainchain：implement data rollback.
+*  Mainchain：implement version merging.
+*  Mainchain：auto generating API Documents.
+*  Mainchain：P2P network sending/receiving message.
+*  Mainchain：P2P UPNP.
+*  Mainchain：change int type define.
+*  Sidechain：fork switching logic.
+*  Sidechain：Configuration Readme.
+*  Sidechain：Reconstruct plugin manager.
+*  Sidechain：change transaction logic.
+
+
 2018/7/23
 -----------------------
 *  Mainchain: define message sending and receiving mechanism.
