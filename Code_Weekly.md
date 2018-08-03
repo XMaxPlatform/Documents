@@ -3,7 +3,7 @@
 
 2018/7/30
 -----------------------
-*  Mainchain：the chain verification.
+*  Mainchain：the block verification.
 *  Mainchain：implement version merging.
 *  Mainchain：auto generating API Documents.
 *  Mainchain：P2P network sending/receiving message.
