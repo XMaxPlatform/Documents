@@ -3,7 +3,7 @@
 
 2018/7/30
 -----------------------
-*  Mainchain：implement data rollback.
+*  Mainchain：the chain verification.
 *  Mainchain：implement version merging.
 *  Mainchain：auto generating API Documents.
 *  Mainchain：P2P network sending/receiving message.
@@ -11,7 +11,7 @@
 *  Mainchain：change int type define.
 *  Sidechain：fork switching logic.
 *  Sidechain：Configuration Readme.
-*  Sidechain：Reconstruct plugin manager.
+*  Sidechain：reconstruct plugin manager.
 *  Sidechain：change transaction logic.
 
 
