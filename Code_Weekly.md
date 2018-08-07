@@ -1,6 +1,19 @@
 # XMAX Code Weekly
 
 
+2018/8/6
+-----------------------
+*  Mainchain：data processing logic in memory。
+*  Mainchain：add APIRPC plugin。
+*  Sidechain：authority system logic。
+*  Sidechain：ERC20 transfer interface。
+*  Sidechain：ERC20 transferFrom interface。
+*  Sidechain：ERC721 balanceOf interface。
+*  Sidechain：ERC721 improve Owner finding。
+*  Sidechain：ERC721 ownerof interface。
+*  Sidechain：implement SafeMath library。
+
+
 2018/7/30
 -----------------------
 *  Mainchain：the block verification.

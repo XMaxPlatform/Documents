@@ -1,6 +1,18 @@
 # XMAX Code Weekly
 
 
+2018/8/6
+-----------------------
+*  主链：内存数据处理逻辑。
+*  主链：增加APIRPC插件。
+*  侧链：权限系统处理逻辑。
+*  侧链：ERC20 transfer 接口。
+*  侧链：ERC20 transferFrom 接口。
+*  侧链：ERC721 balanceOf 接口。
+*  侧链：ERC721 优化Owner查找。
+*  侧链：ERC721 ownerof接口。
+*  侧链：实现SafeMath库。
+
 2018/7/30
 -----------------------
 *  主链：区块验证功能。
