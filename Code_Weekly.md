@@ -1,6 +1,22 @@
 # XMAX Code Weekly
 
 
+2018/8/13
+-----------------------
+*  Mainchain：fix compiling error without MongoDB lib。
+*  Mainchain：optimize plug-in configuration logic for application initialization。
+*  Mainchain: database commit logic。
+*  Mainchain：data serialization and hash.
+*  Mainchain：database operation testcase.
+*  Sidechain：improve authority system logic.
+*  Sidechain：fix block verification bug.
+*  Sidechain：improve MongoDB transaction serialization.
+*  Sidechain：modify genesis block structure.
+*  Sidechain：fix bugs caused by token precision error.
+*  Sidechain：Add P2P UPNP.
+*  Sidechain：fix V8 dependent environment deployment problem.
+
+
 2018/8/6
 -----------------------
 *  Mainchain：data processing logic in memory。
@@ -33,7 +49,6 @@
 *  Mainchain: define message sending and receiving mechanism.
 *  Mainchain: add the protocol base library project.
 *  Mainchain: configuration description document.
-*  Mainchain: database rollback logic.
 *  Sidechain: The data structure of the authority system.
 *  Sidechain: forking logic.
 *  Sidechain: support more character types and longer names.
