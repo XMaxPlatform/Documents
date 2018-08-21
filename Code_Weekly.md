@@ -1,6 +1,19 @@
 # XMAX Code Weekly
 
 
+2018/8/20
+-----------------------
+* Mainchain：add unitedb.
+* Mainchain：unitedb testcase.
+* Mainchain：improve RPC plug-in's network function logic.
+* Sidechain：split contract account.
+* Sidechain：adjust block receipt reflection.
+* Sidechain：confirmed block's size calculation and persistence.
+* Sidechain：improved token symbol encoding, length is supported to 7 characters.
+* Sidechain：simplify interface call.
+* Sidechain：data packing mechanism.
+
+
 2018/8/13
 -----------------------
 *  Mainchain：fix compiling error without MongoDB lib。
