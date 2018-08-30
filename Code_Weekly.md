@@ -1,6 +1,18 @@
 # XMAX Code Weekly
 
 
+2018/8/27
+-----------------------
+* Mainchain：improve table item declaration for unitedb.
+* Mainchain：add chain processing module.
+* Mainchain：APIRPC plugin network modele.
+* Mainchain：improve exception handling.
+* Sidechain：independent contract account logic.
+* Sidechain：capital tracing mechanism.
+* Sidechain：Multi node interconnection.
+* Sidechain：improve data packaging.
+
+
 2018/8/20
 -----------------------
 * Mainchain：add unitedb.
