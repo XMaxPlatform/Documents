@@ -1,6 +1,50 @@
 # XMAX Code Weekly
 
 
+2018/9/10
+-----------------------
+## 主链
+* [db]Define the basic structure of the block,prepare for the quick main logic.
+* [foundation]Implement automatic reflection logic and related macros so can reduce the difficulty of data definition and the amount of code, and increase the development speed.
+* [apirpc]Url handler registration management.
+* [exception]Remove old attributes and replace them in Implementation Class.
+## 侧链
+* [node]Fixed some crash problems caused by node connection logic when multi node startup.
+* [script]The contract supports charging gas fees to prepare for refining gas.
+* [transaction]Related basic data structures for token interaction, such as address logic, message sending structure, data cache structure, etc. Prepare for the next step to achieve transaction logic.
+## SDK
+* [route] add home link.
+* [project] Adjust the web site export and export directory.
+* [script] Fix the bug of webpage base library in web page reference.
+* [script] The base library adds the private key conversion interface.
+* [account] According to the calculation of the private key, the address is displayed on the web page。
+* [account] Add private key format validation logic and interface.
+* [account] Add account information page display.
+* [account] Implement async get balance logic.
+* [account] Balance information display format adjustment.
+* [account] Repair the account drop-down list.
+* [config] Project uses test network.
+
+
+2018/9/3
+-----------------------
+## Mainchain
+* [db]Improve plug-in initialization logic, eliminate abandoned functions, solve the initialization process related problems.
+* [db]Add the data structure of the main account table which based on unitedb.
+* [db]Define block data structure
+## Sidechain
+* [node]Multi machine startup node at the same time, initially verify the multi node startup logic of side chain.
+* [node]Fix data error caused by data synchronization delay during node startup processing.
+* [v8]Limit the maximum number of messages per block.
+* [v8]System transactions can settle gas fees.
+* [v8]Gas sorting logic.
+* [script]After the ERC20 token is transferred to the side chain, the transaction process can be verified in the Ethernet store.
+* [script]Modification of ERC20 data structure which causes unit test error.
+* [mongodb]Adjust MongoDB to adapt to new Contract ABI main chain.
+* [apirpc]Network message request cache processing,
+* [apirpc]Add the HTTP handler structure and the corresponding interface.
+
+
 2018/8/27
 -----------------------
 * Mainchain：improve table item declaration for unitedb.
