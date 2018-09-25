@@ -1,6 +1,28 @@
 # XMAX Code Weekly
 
 
+2018/9/25
+-----------------------
+## 主链
+* [apirpc]增加Credential Option选项。
+* [exception]Log Message生成。
+## 侧链
+* [test]python测试脚本的基础库开发。
+* [test]研发transaction生成模板。
+* [test]侧链message生成模板。
+* [test]侧链RPC调用模板。
+* [script]整理api js库代码。
+* [V8]修改虚拟机运行合约流程。
+## SDK
+* [exception]Error Tip显示支持。
+* [express]balance router实现。
+* [express]balance路由匹配格式ethereum地址。
+* [rpc]balance rpc实现。
+* [config|test]test address配置和使用。
+* [website] 处理rpc数据截断问题。
+
+
+
 2018/9/17
 -----------------------
 ## 主链
