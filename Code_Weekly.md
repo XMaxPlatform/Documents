@@ -1,14 +1,33 @@
 # XMAX Code Weekly
 
 
+2018/9/17
+-----------------------
+## Mainchain
+* [exception]Add more exception handling.
+## Sidechain
+* [node]Improve the multi node startup logic.
+* [consensus]Correct the logical error of bifurcation.
+* [script]The contract function of Token is added to verify the completeness of the issuance data, the legality of signature and operation.
+## SDK
+* [web]Use Strict DI mode to enhance security.
+* [wallet-common] Add wallet common module.
+* [style]Add and replace font styles.
+* [transaction]Access Gas Price,add Gas limit information.
+* [transaction]Implement Send transaction logic.
+* [transaction]Increase links to historical transactions.
+* [config]Increase Ethernet network configuration.
+* [account]Add address format validation.
+
+
 2018/9/10
 -----------------------
-## 主链
+## Mainchain
 * [db]Define the basic structure of the block,prepare for the quick main logic.
 * [foundation]Implement automatic reflection logic and related macros so can reduce the difficulty of data definition and the amount of code, and increase the development speed.
 * [apirpc]Url handler registration management.
 * [exception]Remove old attributes and replace them in Implementation Class.
-## 侧链
+## Sidechain
 * [node]Fixed some crash problems caused by node connection logic when multi node startup.
 * [script]The contract supports charging gas fees to prepare for refining gas.
 * [transaction]Related basic data structures for token interaction, such as address logic, message sending structure, data cache structure, etc. Prepare for the next step to achieve transaction logic.
