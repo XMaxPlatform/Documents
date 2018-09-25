@@ -1,6 +1,25 @@
 # XMAX Code Weekly
 
 
+2018/9/17
+-----------------------
+## 主链
+* [exception]增加更多异常处理。
+## 侧链
+* [node]完善多节点启动逻辑。
+* [consensus]修正分叉出现的逻辑错误。
+* [script]侧链Token增发的合约函数，校验增发数据的完整性，签名及操作的合法性
+## SDK
+* [web]使用Strict DI模式以增强安全性。
+* [wallet-common] 增加wallet common module。
+* [style]增加和替换字体样式。
+* [transaction]实现获取Gas Price,增加Gas limit信息。
+* [transaction]实现Send transaction逻辑。
+* [transaction]增加历史交易链接。
+* [config]增加以太坊网络配置。
+* [account]增加地址格式验证。
+
+
 2018/9/10
 -----------------------
 ## 主链
