@@ -1,6 +1,24 @@
 # XMAX Code Weekly
 
 
+2018/10/08
+-----------------------
+## 主链
+* [exception]异常构造Log Message处理。
+* [apirpc]Http应用Allow Credentials配置。
+## 侧链
+* [test]整理XMAX转账消息的模板，转账json消息的拼接。
+* [test]完善XMAX json工具库，消息队列序列化，数值序列化，消息批量发送。
+* [message]主循环恶意消息或是损坏的消息，在处理过程会引发错误，现在完善错误提示，方便错误排查.
+* [script]整理api js 库代码。
+* [v8]修改虚拟机运行合约流程。
+## SDK
+* [ether]实现Set Provider接口。
+* [RPC]Get block RPC实现。
+* [css]调整html body样式。
+* [model]实现getBlockTransactionCount接口。
+
+
 2018/9/25
 -----------------------
 ## 主链
@@ -20,7 +38,6 @@
 * [rpc]balance rpc实现。
 * [config|test]test address配置和使用。
 * [website] 处理rpc数据截断问题。
-
 
 
 2018/9/17
