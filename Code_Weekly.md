@@ -1,6 +1,25 @@
 # XMAX Code Weekly
 
 
+2018/10/08
+-----------------------
+## Mainchain
+* [exception]Handle exception construction log message.
+* [apirpc]HTTP interfaces apply Allow Credentials Configuration.
+## Sidechain
+* [test]Improve the XMAX test library.
+* [test]Organize XMAX transaction message template, transaction JSON message splicing. 
+* [test]Improve XMAX JSON toolkit, Message Serialization, Message Bulk Send.
+* [message]More specific exception messages for debuging.
+* [script]Collate API JS Library Code. 
+* [V8]Modify virtual machine smart contract runtime process.
+## SDK
+* [ether]Implements the set provider interface. 
+* [RPC]Get Block RPC implementation.
+* [css]Adjusts HTML body style.
+* [model]Implements the Getblocktransactioncount interface.
+
+
 2018/9/25
 -----------------------
 ## Mainchain
