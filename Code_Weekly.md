@@ -1,6 +1,27 @@
 # XMAX Code Weekly
 
 
+2018/9/25
+-----------------------
+## Mainchain
+* [apirpc]Added Credential Option setting.
+* [exception]Log message generation.
+## Sidechain
+* [test]Develop basic Python library for test scripts.
+* [test]Develop transaction creation template.
+* [test]Sidechain message creation template.
+* [test]Sidechain RPC Call template.
+* [script]Collate API JS Library code.
+* [V8]Modify virtual machine smart contract runtime process.
+## SDK
+* [exception]Error tip display support.
+* [express]Balance Router implementation.
+* [express]Balance Router match format for Ethereum Addresses.
+* [RPC]Balance RPC implementation.
+* [config|test]Test address configuration and trial run.
+* [website]Handles RPC data truncation issues.
+
+
 2018/9/17
 -----------------------
 ## Mainchain
