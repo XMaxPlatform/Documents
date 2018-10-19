@@ -1,6 +1,22 @@
 # XMAX Code Weekly
 
 
+2018/10/15
+-----------------------
+## 主链
+* [platform]主链运行环境配置。
+* [platform]调整主链部署运行。
+* [message]Net Message 优化。
+* [exception]异常机制优化。
+## 侧链
+* [test]随机转账测试脚本。
+* [api]查询余额基本功能。
+## SDK
+* [model]实现getCoinBase接口。
+* [css]调整整体样式。
+* [rpc]实现RPC addAccount。
+
+
 2018/10/08
 -----------------------
 ## 主链
