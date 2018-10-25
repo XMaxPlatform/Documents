@@ -1,6 +1,22 @@
 # XMAX Code Weekly
 
 
+2018/10/15
+-----------------------
+## Mainchain
+* [platform]Mainchain run environment configuration.
+* [platform]Adjusts the mainchain deployment run.
+* [message]Net Message optimization.
+* [exception]Exception mechanism optimization.
+## Sidechain
+* [test]Random transfer test script.
+* [API]Basic balance inquery function.
+## SDK
+* [model]Implements the getCoinBase interface.
+* [CSS]Adjusts the overall style.
+* [RPC]Implements RPC addAccount.
+
+
 2018/10/08
 -----------------------
 ## Mainchain
